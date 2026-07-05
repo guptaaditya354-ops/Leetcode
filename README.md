@@ -25,9 +25,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0125-valid-palindrome) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/guptaaditya354-ops/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/guptaaditya354-ops/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
