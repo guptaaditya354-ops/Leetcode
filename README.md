@@ -33,6 +33,7 @@
 | ------- |
 | [0015-3sum](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/guptaaditya354-ops/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -61,4 +62,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0035-search-insert-position) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
