@@ -13,6 +13,7 @@
 | [0073-set-matrix-zeroes](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/guptaaditya354-ops/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0035-search-insert-position) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Linked List
 |  |
 | ------- |
