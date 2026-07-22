@@ -83,4 +83,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/guptaaditya354-ops/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
