@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0048-rotate-image) |
@@ -70,6 +71,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0035-search-insert-position) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Linked List
