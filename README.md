@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0048-rotate-image) |
 ## Sorting
 |  |
