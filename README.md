@@ -15,6 +15,7 @@
 | [0073-set-matrix-zeroes](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/guptaaditya354-ops/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -42,6 +43,7 @@
 | [0125-valid-palindrome](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/guptaaditya354-ops/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
