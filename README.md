@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/guptaaditya354-ops/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0015-3sum) |
+| [0912-sort-an-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,4 +115,24 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/guptaaditya354-ops/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
